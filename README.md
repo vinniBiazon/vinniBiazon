@@ -1,22 +1,27 @@
-<strong>Hello, I'm Vinicius Biazon</strong>
+<strong><b>Hello, I'm Vinicius Biazon</b></strong>
 
-About Me
 
-I am a Data Analyst/Data Scientist with experience in [list your key skills and areas of expertise]. Currently, I am [what you're currently doing or working on].
-My Projects
+<b>About Me:</b>
 
-    [Name of Project 1](link to project): Brief description of project and what you achieved.
-    [Name of Project 2](link to project): Brief description of project and what you achieved.
-    [Name of Project 3](link to project): Brief description of project and what you achieved.
+I am a Data Analyst/Data Scientist with experience in Financial Markets and Foreign Exchange. I am currently working as a Data Analyst at XP Inc.
 
-My Skills
+To see more of my work, please have a look at the repositories here on Github. All projects are divided between: Machine Learning Projects with Python, Machine Learning Projects with R and Data Analysis Projects with Power BI
 
-    Data Analysis: [list specific tools or techniques you're proficient in]
-    Data Visualization: [list specific tools or techniques you're proficient in]
-    Machine Learning: [list specific tools or techniques you're proficient in]
 
-Connect with Me
+<b>My Skills</b>
 
-    [LinkedIn](link to LinkedIn profile)
-    [Twitter](link to Twitter profile)
-    [Portfolio](link to your data science portfolio)
+- 5+ years experience w/ Business Intelligence: Microsoft Power BI (DAX & Power Query);
+- 3+ years experience w/ VBA, Python and R for data analysis;
+- 3+ years experience w/ SQL & MS SQL Server;
+- Strong analytical skills;
+- Data visualization expert;
+- Communication and storytelling;
+- Leadership skills;
+- Time management and prioritization;
+- Data analytics: Web Scraping, Temporal Series, PCA, etc;
+- Machine Learning: Regression (SGD Regressor, SVR), Classification (Linear SVC, KNN, Naive Bayes), Clustering (KMeans), Decision Tree, Random Forest, Ensemble, NLP, Neural Networks, SVM;
+- Frameworks Scikit-Learn, PyTorch & TensorFlow;
+- Continuous Improvement and Agile Methodologies (Kanban, Scrum).
+- Lean Six Sigma Black Belt;
+- Scrum Professional - (Scrum Foundation);
+- Statistic for Data Science;
