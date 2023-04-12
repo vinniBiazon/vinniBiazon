@@ -1,6 +1,6 @@
-<p><strong>Hello, I'm Vinicius Biazon</strong></p>
-<p><strong>About Me:</strong></p>
+<h1><strong>Hello, I'm Vinicius Biazon</strong></h1>
+<h3><strong>About Me:</strong></h3>
 <p>I am a Data Analyst/Data Scientist with experience in Financial Markets and Foreign Exchange. I am currently working as a Data Analyst at XP Inc.</p>
 <p>To see more of my work, please have a look at the repositories here on Github. All projects are divided between: Machine Learning Projects with Python, Machine Learning Projects with R and Data Analysis Projects with Power BI</p>
-<p><br /><strong>My Skills</strong></p>
+<p><strong>My Skills:</strong></p>
 <p>- 5+ years experience w/ Business Intelligence: Microsoft Power BI (DAX &amp; Power Query);<br />- 3+ years experience w/ VBA, Python and R for data analysis;<br />- 3+ years experience w/ SQL &amp; MS SQL Server;<br />- Strong analytical skills;<br />- Data visualization expert;<br />- Communication and storytelling;<br />- Leadership skills;<br />- Time management and prioritization;<br />- Data analytics: Web Scraping, Temporal Series, PCA, etc;<br />- Machine Learning: Regression (SGD Regressor, SVR), Classification (Linear SVC, KNN, Naive Bayes), Clustering (KMeans), Decision Tree, Random Forest, Ensemble, NLP, Neural Networks, SVM;<br />- Frameworks Scikit-Learn, PyTorch &amp; TensorFlow;<br />- Continuous Improvement and Agile Methodologies (Kanban, Scrum).<br />- Lean Six Sigma Black Belt;<br />- Scrum Professional - (Scrum Foundation);<br />- Statistic for Data Science;</p>
