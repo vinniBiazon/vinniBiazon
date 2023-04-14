@@ -9,7 +9,7 @@
 <p><img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" alt="" width="15" height="15" /> 3+ years experience w/ SQL &amp; MS SQL Server;</p>
 <p><img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" alt="" width="15" height="15" />&nbsp;Machine Learning: Regression (SGD Regressor, SVR), Classification (Linear SVC, KNN, Naive Bayes), Clustering (KMeans), Decision Tree, Random Forest, Ensemble, NLP, Neural Networks, SVM;</p>
 <p><img src="https://images.emojiterra.com/twitter/v13.1/512px/1f4ca.png" alt="" width="15" height="15" /> Data analytics: Exploratoty Analysis, KPI's, Web Scraping, Temporal Series, PCA, etc;</p>
-<p><img src="https://cdn-icons-png.flaticon.com/512/4624/4624025.png" alt="" width="15" height="15" />&nbsp;Statistic for Data Science</p>
+<p><img src="https://cdn-icons-png.flaticon.com/512/4624/4624025.png" alt="" width="15" height="15" />&nbsp;Statistic for Data Science;</p>
 <p><img src="https://cdn-icons-png.flaticon.com/512/2920/2920349.png" alt="" width="15" height="15" /> Strong analytical skills;</p>
 <p><img src="https://cdn-icons-png.flaticon.com/512/6292/6292175.png" alt="" width="15" height="15" /> Data visualization expert;</p>
 <p><img src="https://www.pngplay.com/wp-content/uploads/6/Communication-Vector-PNG-HD-Quality.png" alt="" width="15" height="10" /> Communication and storytelling;</p>
